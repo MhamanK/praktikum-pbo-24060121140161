@@ -1,5 +1,5 @@
 /*
-Nama File 	: PegawaiDanGaji.java
+Nama File 	: LambdaList.java
 Nama		: Fayyad Rahman
 NIM			: 24060121140161
 Deskripsi 	: Implementasi lambda pada List, digunakan sebagai parameter pada method
